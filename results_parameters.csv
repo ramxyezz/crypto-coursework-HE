@@ -1,0 +1,4 @@
+poly_modulus_degree,encrypt_ms,compute_ms,error,ciphertext_bytes
+8192,68.069,0.0,0.007134,334147
+16384,200.95,8.07,0.07609,1053873
+32768,526.412,28.758,0.07609,2899298
