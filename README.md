@@ -26,7 +26,7 @@ This project uses the **CKKS scheme** (Cheon-Kim-Kim-Song), which supports appro
 ├── results_parameters.csv      # Results: poly_modulus_degree trade-off comparison
 ├── results_depth.csv           # Results: accuracy degradation with multiplication depth
 ├── results_depth.png           # Chart: error growth with multiplicative depth
-└── README.md                   # This file
+└── README.md                   
 ```
 
 ---
